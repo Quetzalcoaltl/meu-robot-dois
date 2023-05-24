@@ -10,7 +10,7 @@ Library        OperatingSystem
 
 
 *** Variables ***
-${global_quantidade_pdfs_downloads_por_pesquisa}    1
+${global_quantidade_pdfs_downloads_por_pesquisa}    2
 ${global_caminho_origem_csv_entrada}    C:\\Users\\victo\\Downloads\\LOCALIDADES.csv
 ${global_caminho_download_padrao}    C:\\Users\\victo\\Downloads
 ${global_caminho_download_destino}    C:\\Users\\victo\\Downloads\\ArquivosPrime
